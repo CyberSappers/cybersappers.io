@@ -19,7 +19,7 @@ a:hover{text-decoration:underline}
 .nav .links{display:flex; gap:18px}
 .btn{display:inline-block; padding:10px 16px; border-radius:10px; border:1px solid var(--border); background:#0e1524; color:var(--ink)}
 .btn:hover{border-color:#2a3b58}
-.hero{display:grid; grid-template-columns:1.1fr .9fr; gap:36px; margin-top:40px; align-items:center}
+.hero{display:grid; grid-template-columns:1.1fr .9fr; gap:36px; margin-top:40px; align-items:start}
 .card{background:linear-gradient(180deg,#0f1a2d 0%, #0e1524 100%); border:1px solid var(--border); border-radius:var(--radius); padding:22px}
 .grid{display:grid; gap:16px}
 .grid-3{grid-template-columns:repeat(3,1fr)}
