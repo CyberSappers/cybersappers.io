@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="36" viewBox="0 0 600 120" fill="none">
+  <rect width="600" height="120" rx="16" fill="#0e1524"></rect>
+  <text x="24" y="76" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="700" fill="#e6eefc">Cyber Sappers</text>
+  <circle cx="540" cy="60" r="28" fill="#4da3ff"></circle><circle cx="540" cy="60" r="18" fill="#60ffa8" opacity=".9"></circle>
+</svg>
