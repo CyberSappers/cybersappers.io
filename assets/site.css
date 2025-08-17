@@ -50,7 +50,7 @@ a:hover{text-decoration:underline}
   text-align: center;
   min-width: 140px;   
   transition: transform 0.15s ease, box-shadow 0.15s ease;
-  border: 2px solid black;
+  -webkit-text-stroke: 1px black; 
 }
 
 .badge:hover {
